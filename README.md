@@ -1,3 +1,3 @@
 # KoKoa Clone 2024 Update
 
-CSS got so musch better
+HTML & CSS are so much fun!
